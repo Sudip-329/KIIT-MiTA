@@ -86,7 +86,7 @@ If you use this dataset, please cite our research paper:
 
 ## 🛠 Recommended Usage
 This dataset is **ideal for training deep learning-based object detection models** such as:
-- **YOLOv4, YOLOv5, and YOLOv8**
+- **YOLO**
 - **Faster R-CNN**
 - **SSD (Single Shot MultiBox Detector)**
 - **EfficientDet**
